@@ -6,7 +6,7 @@ Author(s):
 * Max Callaghan, Mercator Research Institute on Global Commons and Climate - Berlin, callaghan@mcc-berlin.net
 * Tobias Schimanski, University of Zurich, tobias.schimanski@df.uzh.ch
 
-Originally presented at Climate Change AI Summer School 2022
+Originally presented at Climate Change AI Summer School 2022, revised annually for 2023, 2024, and 2026.
 
 ## Access this tutorial
 
@@ -20,7 +20,7 @@ Part 2: <a target="_blank" href="https://colab.research.google.com/github/climat
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Estimated time to execute end-to-end: 15 minutes 
+Estimated time to execute end-to-end: 2 hours
 
 ## Contribute to this tutorial
 
@@ -37,18 +37,18 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Spokoyny, D., Callaghan, M, & Schimanski, T. (2024). NLP Models for Climate Policy Analysis [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.12533572
+Spokoyny, D., Callaghan, M, & Schimanski, T. (2026). NLP Models for Climate Policy Analysis [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.21446699
 
 ### BibTeX
 
 ```
-@misc{spokoyny2024nlp,
+@misc{spokoyny2026nlp,
   title={NLP Models for Climate Policy Analysis},
   author={Spokoyny, Daniel and Callaghan, Max and Schimanski, Tobias},
-  year={2024},
+  year={2026},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.12533572},
+  doi={https://doi.org/10.5281/zenodo.21446699},
   booktitle={Climate Change AI Summer School},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/nlp-policy-analysis}}
 }
